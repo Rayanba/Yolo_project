@@ -1,0 +1,13 @@
+opencv-python
+scikit-learn
+pafy
+cvzone
+ultralytics
+matplotlib
+numpy
+Pillow
+PyYAML
+scipy
+torch
+torchvision
+tqdm
